@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVzdnVwbjZxbHhidXN2emttMDY0bzVrcHdvOXozZmIzYW93ODQ0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlPBrpFSdVq5WPC/giphy.gif" width="400" alt="coding gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRsZ3Y0d2lqczJ3amVlMHRsNndsYjFuc25qcDQ4OG45MzR1dDNoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif" width="400" alt="coding gif"/>
 </p>
 
 <h3 align="left">⚡️Connect with me</h3>
